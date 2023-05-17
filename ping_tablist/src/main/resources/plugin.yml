@@ -1,0 +1,6 @@
+name: ping_tablist
+version: '1.0'
+main: com.diabloiiiros.ping_tablist.Ping_tablist
+api-version: 1.17
+authors: [diabloIIIROS]
+description: Shows all players ping numbers in the tablist
