@@ -1,0 +1,14 @@
+name: ping_tablist
+version: '1.1'
+main: com.diabloiiiros.ping_tablist.Ping_tablist
+api-version: 1.17
+authors: [diabloIIIROS]
+description: Shows all players ping numbers in the tablist
+permissions:
+  pingtablist.reload:
+    default: false
+    description: Permission node to reload the config.yml file for ping_tablist
+commands:
+  pingtablistreload:
+    description: Reload command to reload the config.yml file for ping_tablist
+    usage: /<command>

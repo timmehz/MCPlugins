@@ -1,0 +1,24 @@
+tablist-ping-update-delay: 5
+show-display-name: false
+show-ping-brackets: true
+ping-brackets-left: '&7['
+ping-brackets-right: '&7]'
+ping-position: 'behind'
+green-ping-max: 150
+yellow-ping-max: 220
+no-permission: 'You do not have permission to use this command.'
+
+
+# **** You can delete this line and below this line if you want ****
+# "tablist-ping-update-delay" is in real life seconds
+# "show-display-name" if false it would just grab your minecraft java account name, if true it would grab what ever your name looks like when you type in chat (this includes nicknames)
+# "show-ping-brackets" if true it would show the brackets
+# "ping-position" front = in front of players name in tab-list, behind = behind players name in tab-list that's right next to the ping bar
+
+# "green-ping-min" does not have a min number so the number could be 0 or in the negatives and still have a green ping
+# "yellow-ping-min" is +1 to "green-ping-max"
+# "red-ping-min" is +1 to "yellow-ping-max"
+# "red-ping-max" does not have a max number so any number above "yellow-ping-max" + 1 would receive the red ping
+
+# SUPPORT:
+  # Discord: https://discord.gg/Em9EwyKxzq
